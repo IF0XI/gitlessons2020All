@@ -1,3 +1,6 @@
 [submodule "Server"]
 	path = Server
 	url = https://github.com/IF0XI/gitlessons2020server.git
+[submodule "site"]
+	path = site
+	url = https://github.com/IF0XI/Gitlessons2020-clone.git
