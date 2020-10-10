@@ -1,0 +1,3 @@
+[submodule "Server"]
+	path = Server
+	url = https://github.com/IF0XI/gitlessons2020server.git
